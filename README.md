@@ -2,10 +2,10 @@
 #Description
 MSTSCEventLogParser is a Python Script that extracts RDP Connection related information from  Local Session Manager Operational event viewer(evtx) file. 
 **Prerequisites**:
-* Pre Requisites are mention in requirements.txt file and can be installed using "pip install -r requirements.txt"
-* Log file obtained from 
-	%SystemRoot%\System32\Winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx"
-	"C:\Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx"
+Pre Requisites are mention in requirements.txt file and can be installed using "pip install -r requirements.txt"
+Log file obtained from 
+* %SystemRoot%\System32\Winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx"
+* "C:\Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx"
 
 ## Usage
 ```shell
