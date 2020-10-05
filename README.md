@@ -20,5 +20,5 @@ where
 ## Information
 * Script checks for Event ID 21,22,24 and 25 which represents "Session Connected" ,"Shell Notification Started" ,"Session Disconnected" and "Session Reconnected" respectively.
 * Script looks for the above mentioed Event ID if it finds any match then it Filter Non-Local(LOCAL) connections from it.
-* Output can be seen in Command prompt(will be removed in future builds) as well as in newly generated csv file Output can be seen below
+* Output can be seen in Command prompt(will be removed in future builds) as well as in newly generated csv file. Output can be seen below
 ![mstsc_parser_output_log](https://user-images.githubusercontent.com/61400637/95047909-82c2cc00-0704-11eb-9ae3-edecbe20aeb0.png)
